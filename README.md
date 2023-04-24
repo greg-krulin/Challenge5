@@ -1,10 +1,12 @@
 # Project Title
 
-A brief, one-liner description of your project.
+This project uses APIs and Monte Carlo simulation to make finacial decisions for a hypothetical retirement fund.
 
 ## Description
 
-A detailed description of your project, including its purpose, features, and usage.
+In this challenge, we are using API tools to collect real world data to do finacial analysis for a hypothetical retirement fund. A combination of crypto, stocks, and bonds are uses for this fund.
+
+We take the data we have collected and see if it can handle an emergancy
 
 ## Table of Contents
 
