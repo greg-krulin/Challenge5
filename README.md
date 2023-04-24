@@ -16,7 +16,6 @@ The conclusion we can make is that the 10 year plan is not suffiecent to retire 
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Credits](#credits)
 
@@ -30,24 +29,19 @@ Follow these steps to set up the project on your local machine:
 git clone https://github.com/your-username/your-repo.git
 ```
 
-## Usage
+2. Change to the project directory:
 
-Instructions on how to use your project, including examples and use cases. You may want to include code snippets, screenshots, or GIFs to illustrate the usage.
+```bash
+cd your-repo
+```
 
-## Contributing
+3. Install the required dependencies:
+```bash
+pip install requests json pandas python-dotenv alpaca-trade-api
+```
 
-Guidelines for contributing to your project, including the process for submitting pull requests, reporting bugs, or requesting new features.
-
-1. Fork the repository
-2. Create your feature branch (git checkout -b feature/your-feature-name)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin feature/your-feature-name)
-5. Open a pull request
-
-## Liscense 
-
-Include the license information for your project, such as the name and a link to the full text.
 
 ## Credits
 
-Acknowledge any contributors or external resources that helped make your project possible. This may include other developers, designers, or third-party libraries.
+This challenge is from Berkely Fintech Bootcamp.
+Thank you to the instructors Firas Obeid and Marghub Mizra.
